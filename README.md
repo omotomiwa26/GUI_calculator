@@ -1,4 +1,4 @@
 # GUI_calculator
 
-# Simple calculator with Java abstract Windowing Toolkit
+# Simple calculator with Java Abstract Windowing Toolkit
 # Java Look And Feel Library  
